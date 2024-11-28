@@ -1,0 +1,38 @@
+.a {display: inline-block;
+padding-left: 10px;}
+.a:hover {
+  color: rgb(206, 165, 165);}
+.b {display: inline-block; padding-left: 10px;}
+.b:hover {
+  color: rgb(206, 165, 165);
+}
+.c { display: inline-block; padding-left: 10px;}
+.c:hover {
+  color: rgb(206, 165, 165);}
+.d { display: inline-block; padding-left: 10px;}
+.d:hover {
+  color: rgb(206, 165, 165);}
+.e { display: inline-block; padding-left: 10px;}
+.e:hover {
+  color: rgb(206, 165, 165);}
+.f { display: inline-block; padding-left: 10px;}
+.f:hover {
+  color: rgb(206, 165, 165);}
+.g { display: inline-block; padding-left: 10px;}
+.g:hover {
+  color: rgb(206, 165, 165);}
+.h { display: inline-block; padding-left: 10px;}
+.h:hover {
+  color: rgb(206, 165, 165);}
+.hearus {
+  font-weight: bold;
+  padding-left: 10px;
+  font-size: 30px;
+  text-align: center;
+  background-color:rgb(244, 240, 235)
+}
+.hearus:hover {
+  box-shadow: 10%;
+  cursor: pointer;
+  background-color:rgb(223, 219, 204)
+}
